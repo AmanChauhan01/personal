@@ -1,0 +1,55 @@
+*{margin: 0px;box-sizing: border-box;}
+.back{background: url(../images/banner\ 4\ copy.webp) no-repeat center top/cover; height: 650px; position: relative; z-index: 1; background-attachment: fixed;}
+.back div.mask {
+    position: absolute;
+    background: rgba(50, 50, 100, 0.5);
+    left: 0;
+    right: 0;
+    height: 100%;
+    z-index: -1;
+  }
+.nav-bord{justify-content: end;}
+.nav-bord ul li {margin: 5px;}
+.nav-bord ul li a{color: white; font-size: 18px;}
+
+.wrap2{}
+.wrap2 .box{margin-top: 150px;}
+.wrap2 h1{font-size: 70px; line-height: 1.1; margin-bottom: 30px;}
+.wrap2 .but{margin-top: 50px;}
+.wrap2 .but .hover{transition: 1s;} 
+.wrap2 .but .hover:hover{background-color: black;}
+
+.wrap3{padding-top: 50px; padding-bottom: 120px;}
+.wrap3 .row .col-md-6{position: relative;}
+.wrap3 .background{width: 400px; height: 450px; background: yellow;}
+.wrap3 .row .col-md-6 img{width: 420px; position: absolute; top: 45px; left: 60px ;height: 470px;}
+.wrap3 .row .col-md-6 .p2{text-align: justify; margin-top: 20px; font-family: sans-serif; margin-bottom: 30px; font-size: 18px;}
+.wrap3 .row .col-md-6 a{color: white; text-decoration: none; background-color: grey; padding: 15px 30px 15px 30px; border-radius: 5px;}
+
+.wrap4{background-color: grey; padding: 40px;}
+.wrap4 .row .col-md-3{font-size: 25px; font-weight: 700; color: white;}
+
+.wrap5{padding-top: 50px; padding-bottom: 100px;}
+.wrap5 .row .col-md-6 img{width: 600px; height: 500px;position: relative; left: 50px; border-radius: 10px;}
+.wrap5 .row .col-md-6 .cards{background-color: white;border-radius: 10px; position: relative;top: 50px; left: -80px; box-shadow: 0 0 222px grey;}
+.wrap5 .row .col-md-6 .cards h2{color: grey; font-size: 45px; line-height: 1; font-weight: 700; text-align: center;}
+.wrap5 .row .col-md-6 .cards .p3{color: grey; font-size: 18px; text-align: center; margin-top: 20px;}
+.wrap5 .row .col-md-6 .cards form p{text-align: center; font-size: 18px; color: grey;}
+.wrap5 .row .col-md-6 .cards form button{border: none; background-color: yellow; padding: 5px 25px 5px 25px; width: 100%; font-size: 30px; color: rgb(80, 79, 79); font-weight: 900; border-radius: 50px;}
+
+.wrap6{padding-top: 50px;padding-bottom: 80px;}
+.wrap6 h2{font-size: 80px; word-spacing: -10; letter-spacing: -2px; line-height: 1; margin-bottom: 80px; color: grey;}
+.wrap6 .row .col-md-5 img{width: 100%; height: 500px; border-radius: 10px;}
+.wrap6 .row .col-md-7 .box{margin-top: 120px;}
+.wrap6 .row .col-md-7 .box h3{font-size: 33px;}
+.wrap6 .row .col-md-7 .box .p4{text-align: justify; color: grey; font-size: 18px; margin-top: 20px; margin-bottom: 45px;}
+.wrap6 .row a{color: white; text-decoration: none; border: 1px solid grey; padding: 10px 30px 10px 30px; background: grey; border-radius: 100px;}
+
+.wrap7{background-color: black; padding: 50px; color: white;}
+.wrap7 span{border: 1px solid white; padding: 10px; color: black; background-color: white; border-radius: 5px; font-weight: 600;}
+.wrap7 .p5{font-size: 30px; font-weight: 600; color: white;}
+.wrap7 .p6{text-align: justify; color: white;}
+.wrap7 .link{text-align: center;}
+.wrap7 ul{padding: 0;}
+.wrap7 ul li{list-style-type: none; padding: 5px; margin: 5px;}
+.wrap7 ul li a{color: white; text-decoration: none;}
